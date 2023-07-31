@@ -13,6 +13,57 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 style="text-align: center;">Hello there, I'm Maksim</h1>
+<p>
+🔭 I've just started my IT journey. Currently has above a year C/C++ experience and continue to learn C++ and Golang in a hard way.
+</p> 
+<p>
+🏂 I like to code, exam and use cool modern technology and develop applications, so, some of them can be found in my repositories. Just trying my best and hope get a job for more developer experience in future.
+</p>
+
+<div>
+    <img src=img/navigation.png  style="width:15px;height:15px;"> Novosibirsk
+</div>
+<div>
+    <img src=img/telegram.png  style="width:15px;height:15px;"><a href="https://t.me/hhullen"> Telegram</a>
+</div>
+
+
+<h2>Student of 21 School by SBER since October 2021</h2>
+
+
+<span style="color: #ff0000; display: flex; margin-top: 24px; justify-content: space-between; font-size: 14px;">
+    <span>lvl 11 / 21</span>
+    <span>57%</span>
+</span>
+
+<div class="jss282">
+    <div class="jss1450 jss1452">
+        <div class="jss1451 jss1453" style="width: 57%; z-index: 0;">
+        </div>
+    </div>
+</div>
+
+<div class="jss1403">
+    <div></div>
+    <div class="jss1454 jss1456 jss1408">
+        <span class="jss1245">16483 XP</span>
+    </div>
+    <div></div>
+</div>
+
+<h2>Leetcode stat</h2>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/hhullen?ext=heatmap">
+</div>
+
+<h2>Github stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhullen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhullen&show_icons=true&theme=rose_pine">
+</div>
+<h1></h1>
+
  <style>
 body {
     margin: 0px;
@@ -89,51 +140,3 @@ div {
     line-height: 18px;
 }
 </style>
-
-<h1 style="text-align: center;">Hello there, I'm Maksim</h1>
-<p>
-🔭 I've just started my IT journey. Currently has above a year C/C++ experience and continue to learn C++ and Golang in a hard way.
-</p> 
-<p>
-🏂 I like to code, exam and use cool modern technology and develop applications, so, some of them can be found in my repositories. Just trying my best and hope get a job for more developer experience in future.
-</p>
-
-<div>
-    <img src=img/navigation.png  style="width:15px;height:15px;"> Novosibirsk
-</div>
-<div>
-    <img src=img/telegram.png  style="width:15px;height:15px;"><a href="https://t.me/hhullen"> Telegram</a>
-</div>
-
-
-<h2>Student of 21 School by SBER since October 2021</h2>
-
-
-<div style="color: #ff0000; display: flex; margin-top: 24px; justify-content: space-between; font-size: 14px;"><div>lvl 11 / 21</div><div>57%</div></div>
-
-<div class="jss282">
-    <div class="jss1450 jss1452">
-        <div class="jss1451 jss1453" style="width: 57%; z-index: 0;">
-        </div>
-    </div>
-</div>
-
-<div class="jss1403">
-    <div></div>
-    <div class="jss1454 jss1456 jss1408">
-        <span class="jss1245">16483 XP</span>
-    </div>
-    <div></div>
-</div>
-
-<h2>Leetcode stat</h2>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/hhullen?ext=heatmap">
-</div>
-
-<h2>Github stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhullen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhullen&show_icons=true&theme=rose_pine">
-</div>
-<h1></h1>
