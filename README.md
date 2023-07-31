@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -342,14 +341,13 @@ Here are some ideas to get you started:
 <h2>Github stats</h2>
 <center>
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhullen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=hhullen&show_icons=true&theme=rose_pine"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhullen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+</picture>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=hhullen&show_icons=true&theme=rose_pine">
 </picture>
 </center>
 <h1></h1>
 
 </body>
 </html>
-`
