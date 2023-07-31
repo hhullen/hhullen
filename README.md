@@ -135,10 +135,6 @@ Here are some ideas to get you started:
     <div></div>
 </div>
 
-<div>
-    <line class="vx-line" x1="0" y1="0" x2="34.007191541845174" y2="209.25465567923752" fill="transparent" stroke="#FF0000" data-testid="softSkills.point.line">
-    </line>
-</div>
 
 <!-- <div style="display: inline-block; position: relative; width: 100%; vertical-align: top; overflow: hidden;"><svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 752 544"><linearGradient id="polygonFill"><stop offset="0%" stop-color="#36C5F0"></stop>
 <stop offset="100%" stop-color="#44EB99"></stop>
