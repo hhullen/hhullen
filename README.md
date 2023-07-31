@@ -28,9 +28,6 @@ Here are some ideas to get you started:
   <img src=img/telegram.png  style="width:15px;height:15px;" target="_blank"><a href="https://t.me/hhullen" target="_blank"> Telegram</a>
 </div>
 
-
-<img src=img/telegram.png  style="width:15px;height:15px;"> [Telegram](https://t.me/hhullen)
-
 <h2>Leetcode stat</h2>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/hhullen?ext=heatmap">
