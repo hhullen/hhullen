@@ -28,14 +28,15 @@ Here are some ideas to get you started:
     <img src=img/telegram.png  style="width:15px;height:15px;"><a href="https://t.me/hhullen"> Telegram</a>
 </div>
 
+[Page](./page.html)
 
 <h2>Student of 21 School by SBER since October 2021</h2>
 
 
-<span style="color: #ff0000; display: flex; margin-top: 24px; justify-content: space-between; font-size: 14px;">
-    <span>lvl 11 / 21</span>
-    <span>57%</span>
-</span>
+<div style="color: #ff0000; display: flex; margin-top: 24px; justify-content: space-between; font-size: 14px;">
+    <div>lvl 11 / 21</div>
+    <div>57%</div>
+</div>
 
 <div class="jss282">
     <div class="jss1450 jss1452">
