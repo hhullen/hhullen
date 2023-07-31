@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <style type="text/css">
+ <style>
         body {
             margin: 0px;
             color: rgb(255, 255, 255);
