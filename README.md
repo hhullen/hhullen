@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 style="text-align: center;">Hello there, I'm Maksim</h1>
 <p>
-🔭 I've just started my IT journey. Currently has above a year C/C++ experience and continue to learn C++ and Golang in a hard way.
+🔭 I've just started my IT journey. Currently, I'm student of 21 School by SBER since October 2021, has above a year C/C++ experience and continue to learn C++ and Golang in a hard way.
 </p> 
 <p>
 🏂 I like to code, exam and use cool modern technology and develop applications, so, some of them can be found in my repositories. Just trying my best and hope get a job for more developer experience in future.
@@ -26,31 +26,6 @@ Here are some ideas to get you started:
 </div>
 <div>
     <img src=img/telegram.png  style="width:15px;height:15px;"><a href="https://t.me/hhullen"> Telegram</a>
-</div>
-
-![HTML](./page.html)
-
-<h2>Student of 21 School by SBER since October 2021</h2>
-
-
-<div style="color: #ff0000; display: flex; margin-top: 24px; justify-content: space-between; font-size: 14px;">
-    <div>lvl 11 / 21</div>
-    <div>57%</div>
-</div>
-
-<div class="jss282">
-    <div class="jss1450 jss1452">
-        <div class="jss1451 jss1453" style="width: 57%; z-index: 0;">
-        </div>
-    </div>
-</div>
-
-<div class="jss1403">
-    <div></div>
-    <div class="jss1454 jss1456 jss1408">
-        <span class="jss1245">16483 XP</span>
-    </div>
-    <div></div>
 </div>
 
 <h2>Leetcode stat</h2>
