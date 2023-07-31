@@ -135,7 +135,7 @@ Here are some ideas to get you started:
     <div></div>
 </div>
 
-<div style="display: inline-block; position: relative; width: 100%; vertical-align: top; overflow: hidden;"><svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 752 544"><linearGradient id="polygonFill"><stop offset="0%" stop-color="#36C5F0"></stop>
+<!-- <div style="display: inline-block; position: relative; width: 100%; vertical-align: top; overflow: hidden;"><svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 752 544"><linearGradient id="polygonFill"><stop offset="0%" stop-color="#36C5F0"></stop>
 <stop offset="100%" stop-color="#44EB99"></stop>
 </linearGradient>
 <g class="vx-group" transform="translate(376, 272)"><circle stroke-width="1" stroke-opacity="0.8" stroke="#FF0000" r="70.66666666666667" fill="none" data-testid="softSkills.circle"></circle>
@@ -327,11 +327,11 @@ Here are some ideas to get you started:
 </text>
 </svg>
 </g></svg>
-</div>
+</div> -->
 
 <h2>Leetcode stat</h2>
 <center>
-  <img src="https://leetcard.jacoblin.cool/hhullen?ext=heatmap" style="align: center;">
+  <img src="https://leetcard.jacoblin.cool/hhullen?ext=heatmap">
 </center>
 
 
