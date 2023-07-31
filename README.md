@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src=img/navigation.png  style="width:15px;height:15px;"> Novosibirsk
 </div>
 <div>
-  <img src=img/telegram.png  style="width:15px;height:15px;"><a href="https://t.me/hhullen"> Telegram</a>
+  <img src=img/telegram.png  style="width:15px;height:15px;"><a href="https://t.me/hhullen" target="_blank"> Telegram</a>
 </div>
 
 <h2>Leetcode stat</h2>
