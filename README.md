@@ -14,86 +14,86 @@ Here are some ideas to get you started:
 -->
 
  <style>
-        body {
-            margin: 0px;
-            color: rgb(255, 255, 255);
-            font-family: "SB Sans Text", Helvetica, sans-serif;
-            font-weight: 400;
-            font-size: 1rem;
-            line-height: 1.5;
-            background-color: rgb(20, 0, 0);
-            color: rgb(255, 0, 0);
-        }
-        div {
-            display: block;
-        }
-        *, ::before, ::after {
-            box-sizing: inherit;
-        }
-        .jss282 {
-            margin-top: 8px;
-        }
-        .jss1452 {
-            height: 12px;
-            border-radius: 12px;
-            background-color: rgb(100, 50, 60);
-        }
-        .jss1450 {
-            display: flex;
-            position: relative;
-        }
-        .jss1453 {
-            min-width: 24px;
-            border-radius: 12px;
-        }
-        .jss1451 {
-            height: 100%;
-            position: absolute;
-            background: linear-gradient(106.44deg, #36C5F0 7.6%, #44EB99 86.89%);
-        }
-        .jss1403 {
-            color: #ff0000;
-            display: flex;
-            margin-top: 24px;
-            justify-content: space-between;
-            font-size: 14px;
-        }
-        .jss1454 {
-            border: 1px solid;
-            display: inline-flex;
-            padding: 4px 8px;
-            align-items: center;
-            flex-direction: row;
-            justify-content: center;
-        }
-        .jss1456 {
-            border-radius: 16px;
-            color: rgb(81, 96, 113);
-            background-color: rgb(221, 227, 233);
-            border-color: rgb(221, 227, 233);
-            cursor: default;
-        }
-        .jss1408 {
-            font-size: 14px;
-            font-weight: 500;
-        }
-        .jss1600 {
-            fill: #ff0000;
-            font-size: 12px;
-        }
-        .jss1245 {
-            font-size: 14px;
-            font-style: normal;
-            font-family: "SB Sans Text", Helvetica, sans-serif;
-            font-weight: 600;
-            line-height: 18px;
-        }
+    body {
+        margin: 0px;
+        color: rgb(255, 255, 255);
+        font-family: "SB Sans Text", Helvetica, sans-serif;
+        font-weight: 400;
+        font-size: 1rem;
+        line-height: 1.5;
+        background-color: rgb(20, 0, 0);
+        color: rgb(255, 0, 0);
+    }
+    div {
+        display: block;
+    }
+    *, ::before, ::after {
+        box-sizing: inherit;
+    }
+    .jss282 {
+        margin-top: 8px;
+    }
+    .jss1452 {
+        height: 12px;
+        border-radius: 12px;
+        background-color: rgb(100, 50, 60);
+    }
+    .jss1450 {
+        display: flex;
+        position: relative;
+    }
+    .jss1453 {
+        min-width: 24px;
+        border-radius: 12px;
+    }
+    .jss1451 {
+        height: 100%;
+        position: absolute;
+        background: linear-gradient(106.44deg, #36C5F0 7.6%, #44EB99 86.89%);
+    }
+    .jss1403 {
+        color: #ff0000;
+        display: flex;
+        margin-top: 24px;
+        justify-content: space-between;
+        font-size: 14px;
+    }
+    .jss1454 {
+        border: 1px solid;
+        display: inline-flex;
+        padding: 4px 8px;
+        align-items: center;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .jss1456 {
+        border-radius: 16px;
+        color: rgb(81, 96, 113);
+        background-color: rgb(221, 227, 233);
+        border-color: rgb(221, 227, 233);
+        cursor: default;
+    }
+    .jss1408 {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .jss1600 {
+        fill: #ff0000;
+        font-size: 12px;
+    }
+    .jss1245 {
+        font-size: 14px;
+        font-style: normal;
+        font-family: "SB Sans Text", Helvetica, sans-serif;
+        font-weight: 600;
+        line-height: 18px;
+    }
 </style>
 
 <h1 style="text-align: center;">Hello there, I'm Maksim</h1>
 <p>
 🔭 I've just started my IT journey. Currently has above a year C/C++ experience and continue to learn C++ and Golang in a hard way.
-</p>
+</p> 
 <p>
 🏂 I like to code, exam and use cool modern technology and develop applications, so, some of them can be found in my repositories. Just trying my best and hope get a job for more developer experience in future.
 </p>
