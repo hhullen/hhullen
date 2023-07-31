@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 </p>
 
 <div>
-    <img src=img/navigation.png  style="width:15px;height:15px;"> Novosibirsk
+  <img src=img/navigation.png  style="width:15px;height:15px;"> Novosibirsk
 </div>
 <div>
-    <img src=img/telegram.png  style="width:15px;height:15px;"><a href="https://t.me/hhullen"> Telegram</a>
+  <img src=img/telegram.png  style="width:15px;height:15px;"><a href="https://t.me/hhullen"> Telegram</a>
 </div>
 
 <h2>Leetcode stat</h2>
@@ -39,3 +39,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=hhullen&show_icons=true&theme=rose_pine">
 </div>
 <h1></h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hhullen&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge">
+</p>
