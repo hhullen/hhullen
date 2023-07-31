@@ -331,7 +331,7 @@ Here are some ideas to get you started:
 
 <h2>Leetcode stat</h2>
 <center>
-  <img src="https://leetcard.jacoblin.cool/hhullen?ext=heatmap">
+  <img src="https://leetcard.jacoblin.cool/hhullen?ext=heatmap" style="align: center;">
 </center>
 
 
