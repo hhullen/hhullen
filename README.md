@@ -115,11 +115,7 @@ Here are some ideas to get you started:
 <h2>Student of 21 School by SBER since October 2021</h2>
 
 
-<div style="color: #ff0000;
-            display: flex;
-            margin-top: 24px;
-            justify-content: space-between;
-            font-size: 14px;">
+<div style="color: #ff0000; display: flex; margin-top: 24px; justify-content: space-between; font-size: 14px;">
     <div>lvl 11 / 21</div>
     <div>57%</div>
 </div>
