@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <h1 style="text-align: center;">Hello there, I'm Maksim</h1>
 <p>
-🔭 I've just started my IT journey. Currently, I'm student of 21 School by SBER since October 2021, has above a year C/C++ experience and continue to learn C++ and Golang in a hard way.
-</p> 
+🔭 I've just started my IT journey. Currently, I'm student of 21 School by SBER, has above a year C/C++ experience and continue to learn C++ and Golang in a hard way.
+</p>
 <p>
 🏂 I like to code, exam and use cool modern technology and develop applications, so, some of them can be found in my repositories. Just trying my best and hope get a job for more developer experience in future.
 </p>
