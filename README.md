@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src=img/telegram.png  style="width:15px;height:15px;"><a href="https://t.me/hhullen"> Telegram</a>
 </div>
 
-[Page](./page.html)
+![HTML](./page.html)
 
 <h2>Student of 21 School by SBER since October 2021</h2>
 
