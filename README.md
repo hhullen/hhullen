@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <h2>Github stat</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhullen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhullen&show_icons=true&theme=rose_pine">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhullen&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhullen&show_icons=true&theme=transparent">
 </div>
 <h1></h1>
 <p align="center">
