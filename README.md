@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!DOCTYPE HTML>
 <html>
 <head>
-    <meta charset="utf-8">
+    <meta charset="font/woff2;charset=utf-8">
     <style type="text/css">
         body {
             margin: 0px;
