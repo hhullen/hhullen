@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!DOCTYPE HTML>
-<html>
-<head>
-    <meta charset="font/woff2;charset=utf-8">
-    <style type="text/css">
+ <style type="text/css">
         body {
             margin: 0px;
             color: rgb(255, 255, 255);
@@ -93,6 +89,11 @@ Here are some ideas to get you started:
             line-height: 18px;
         }
 </style>
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="font/woff2;charset=utf-8">
 </head> 
 <body>
 
