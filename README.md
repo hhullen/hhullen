@@ -90,13 +90,6 @@ Here are some ideas to get you started:
         }
 </style>
 
-<!DOCTYPE HTML>
-<html>
-<head>
-<meta charset="font/woff2;charset=utf-8">
-</head> 
-<body>
-
 <h1 style="text-align: center;">Hello there, I'm Maksim</h1>
 <p>
 🔭 I've just started my IT journey. Currently has above a year C/C++ experience and continue to learn C++ and Golang in a hard way.
@@ -147,6 +140,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=hhullen&show_icons=true&theme=rose_pine">
 </div>
 <h1></h1>
-
-</body>
-</html>
