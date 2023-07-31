@@ -338,9 +338,7 @@ Here are some ideas to get you started:
 <h2>Github stats</h2>
 <center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhullen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
-<picture>
   <img src="https://github-readme-stats.vercel.app/api?username=hhullen&show_icons=true&theme=rose_pine">
-</picture>
 </center>
 <h1></h1>
 
