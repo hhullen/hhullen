@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!DOCTYPE HTML>
+<!-- <!DOCTYPE HTML> -->
 <html>
 <head>
     <meta charset="utf-8">
