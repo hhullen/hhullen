@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔭 I've just started my IT journey. Currently, I'm student of 21 School by SBER, has above a year C/C++ experience and continue to learn C++ and Golang in a hard way.
 </p>
 <p>
-🏂 I like to code, exam and use cool modern technology and develop applications, so, some of them can be found in my repositories. Just trying my best and hope get a job for more developer experience in future.
+🏂 I like to code, exam and use cool modern technology and develop applications, so, some of them can be found in my repositories. Just trying my best and hope to get a job for more developer experience in future.
 </p>
 
 <div>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://leetcard.jacoblin.cool/hhullen?ext=heatmap">
 </div>
 
-<h2>Github stats</h2>
+<h2>Github stat</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhullen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=hhullen&show_icons=true&theme=rose_pine">
